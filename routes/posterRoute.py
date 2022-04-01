@@ -1,5 +1,5 @@
 from flask import Blueprint
-from controllers.posterController import get_posters,get_poster, create_poster, update_poster, delete_poster
+from controllers.posterController import get_posters, get_poster, create_poster, update_poster, delete_poster
 #from flask_restplus import Api, Resource
 
 
