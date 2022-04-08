@@ -170,22 +170,7 @@ paths:
           schema:
             type: string
         - in: query
-          name: url
-          description: number of records to skip for pagination
-          schema:
-            type: string
-        - in: query
-          name: categorie
-          description: number of records to skip for pagination
-          schema:
-            type: string
-        - in: query
-          name: description
-          description: number of records to skip for pagination
-          schema:
-            type: string
-        - in: query
-          name: id
+          name: idMedia
           description: id Of an media
           schema:
             type: integer
